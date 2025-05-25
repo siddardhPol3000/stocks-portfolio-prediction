@@ -49,7 +49,7 @@ This fork focuses on my significant contributions during the project, including:
 cd backend
 pip install -r requirements.txt
 python app.py
-
+```
 #### Frontend (React + Tailwind CSS)
 ```bash
 cd frontend
